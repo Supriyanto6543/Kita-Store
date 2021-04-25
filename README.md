@@ -25,3 +25,9 @@ Kita Store is ecommerce app with midtrans payment gateway integrated that make l
 
 >1. Pengenalan Kursus
 >2. Hello World
+
+<ul><li>Kotlin Pemula dengan Intellij Idea</li></ul>
+
+>1. Tipe Data
+>2. Var vs Val
+>3. Dan banyak lagi. klik link diatas untuk detailnya
